@@ -55,4 +55,11 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>fake-repo</id>
+            <url>http://example.com/maven</url>
+        </repository>
+    </repositories>
+
 </project>
